@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.16.1",
+    "github": "^9.2.0",
+    "js-base64": "^2.1.9",
+    "keypair": "^1.0.1",
+    "node-forge": "^0.7.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
